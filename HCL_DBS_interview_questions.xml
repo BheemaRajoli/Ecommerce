@@ -1,0 +1,30 @@
+class Students{
+private List<String> bookNames;
+}//say we have 10 students collect all(union) list of book names which all 10 students are inserted  in.
+List<Students> students;
+o/p should be like below i.e., collection of book names using java 8streams?
+"Head first  servlets"
+"Reactive Programming"
+"BookN"
+
+Q. How to print particular book name based on the above code?
+Q. What is Stream API?
+Q. What is flatMap?
+Q. Diff bw Flatmap and Map?
+Q. What are the features of java 8?
+Q. What is method reference?
+Q. Employee id, name and address are there. write a code to sort employee list and remove duplicates from list?
+Q. What is @Autoconfiguration ? explain with example?
+Q. What is @Qualifier? explain with example?
+Q. Write test case for below one:
+   EmployeeServiceImpl implements EmployeeService{
+   @Autowired
+   EmployeeRepository empRepo;
+   public Employee getEmployee(String id){
+   empRepo.getEmployee(id);
+   }
+   }
+Q. What is @Mock and @InjectMock
+Q. How many types of Autowired are there?
+Q. Can you create a been fon static class?
+Q. 
